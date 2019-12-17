@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VocalCounter", "VocalCounter\VocalCounter.csproj", "{51EB69BE-52B5-4010-AF3E-C10767051729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51EB69BE-52B5-4010-AF3E-C10767051729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EB69BE-52B5-4010-AF3E-C10767051729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EB69BE-52B5-4010-AF3E-C10767051729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EB69BE-52B5-4010-AF3E-C10767051729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E4CD45-4A97-4028-9CE8-4AFD76909D9E}
+	EndGlobalSection
+EndGlobal
